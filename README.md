@@ -10,3 +10,6 @@ Python, Pandas, Scikit-learn
 XGBoost, Optuna
 Data Imputation & Model Tuning
 Jupyter Notebook
+
+Top 20 in a National-Level ML Hackathon! 🚀
+Thrilled to share that I secured Rank 16 in the recently concluded MachineHack Hackathon focused on predicting AI Tool Usage Hours using real-world productivity data. 📊💻
